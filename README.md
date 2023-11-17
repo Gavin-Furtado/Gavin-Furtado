@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an electronics engineer with an interest in interial measurement units.
+- Currently my focus is on implementing Kalman Filter algorithms
+- Future project ideas: Extended Kalman Filter algorithm
+
 <!--
 **Gavin-Furtado/Gavin-Furtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
