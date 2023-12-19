@@ -1,7 +1,7 @@
 <h1 align="center"> Gavin Furtado</h1>
 <h3 align="center"> Attitude Determination & Control Systems</h3>
 
-I am an AOCS/GNC engineer with an interest in interial measurement units and have a strong background in electronics engineering.
+I am an ADCS/GNC engineer with an interest in interial measurement units and have a strong background in electronics engineering.
 - :electron: Currently my focus is on implementing Kalman Filter algorithms
 - ⏭️ Future project ideas: Extended Kalman Filter algorithm
 
